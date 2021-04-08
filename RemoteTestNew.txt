@@ -4,3 +4,4 @@
 4回目のコミットの記述
 ワークツリーを変更 git add する。
 差分
+git commit --amend

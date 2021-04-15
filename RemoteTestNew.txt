@@ -5,3 +5,5 @@
 ワークツリーを変更 git add する。
 差分
 git commit --amend
+
+pull request

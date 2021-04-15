@@ -6,4 +6,4 @@
 差分
 git commit --amend
 
-pull request
+pull request -- 2
